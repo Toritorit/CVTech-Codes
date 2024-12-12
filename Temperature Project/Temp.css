@@ -1,0 +1,23 @@
+
+
+body {
+ align-items: center;
+ justify-content: center;
+ text-align: center;
+ display: flex;
+ color: #116e57;
+ font-family:cursive;
+
+
+}
+
+.Contain {
+width: 420px;
+height: 180px;
+padding: 10px;
+border: 5px solid rgb(9, 99, 69) ;
+border-radius: 15px;
+background-image: linear-gradient(bottom left right rgb(8, 104, 88) rgb(103, 207, 181));
+
+
+}
