@@ -1,0 +1,50 @@
+
+body {
+background-color: #56af99;
+}
+
+h1 {
+text-align: center;
+font-family: sans-serif;
+padding-right: 1em;
+}
+
+input {
+border-radius: 6em;
+padding: 1em;
+margin-inline:52em;
+}
+
+label {
+padding-left: 44em;
+
+
+}
+
+button { 
+margin-inline: 57em;
+background-color: green;
+color: white;
+
+
+
+
+}
+
+#display {
+text-align: center;
+width: 60%;
+margin: auto;
+
+background-color:grey;
+}
+
+p {
+color: black;
+text-align: center;
+}
+
+h2 {
+text-align: center;
+font-family: sans-serif;
+}
