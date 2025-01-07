@@ -1,0 +1,22 @@
+
+
+#gbook {
+position: relative;
+text-align: left;
+border-style: solid;
+border-width: 1px;
+margin-inline: 650px ;
+padding: 10px;
+}
+
+#obook {
+margin-inline: 650px;
+
+position: relative;
+text-align: left;
+padding: 10px;
+border-style: solid ;
+border-width: 1px;
+
+
+}
