@@ -1,0 +1,120 @@
+#NavBar1 {
+    border: solid black 1px;
+}
+
+#HomeNav {
+margin: 0%;
+padding: 0%;
+overflow: hidden;
+list-style-type:none;
+    background-color: #b4dce9;
+    border: 1px 2px  solid black;
+    
+}
+
+
+
+.CatNav {
+display: inline;
+float:inline-start;
+padding: 1em;
+margin-inline:2em;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 1px 0px 3px rgb(194, 243, 245);
+    
+}
+
+a:visited {
+color: black;
+}
+
+a:link {
+    color: black;
+    }
+
+
+
+#SearchNAV {
+margin: 0;
+padding: 0%;
+overflow: hidden;
+list-style-type:none;
+    background-color: #ffffff;
+    outline: 2px 3px solid black;   
+
+
+}
+
+.SearchN {
+display: inline;
+float: left;
+padding: 20px;
+margin-inline:100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 1px 0px 3px rgb(211, 248, 243);
+}
+
+.Column {
+float: left;
+padding-left: 10px;
+text-align: center;
+}
+
+.PROW {
+margin-inline:283px;
+
+}
+
+.SSImages {
+padding: 10px;
+}
+
+.SliderContainer {
+position: relative;
+margin-top: 400px;
+margin-left: 445px;
+max-width:900px;
+;
+}
+
+.slider {
+display:flex;
+aspect-ratio: 16 / 9;
+overflow-x:auto ;
+scroll-snap-type: x mandatory;
+scroll-behavior: smooth;
+box-shadow: 0 1.5rem 3rem -0.75 hsla(0, 0%, 0%, 0.25);
+overflow: hidden;
+}
+
+.slider img {
+flex:1 0 100%;
+scroll-snap-align:start;
+object-fit: cover;
+border-radius: 20px;
+}
+
+.slider-nav {
+display: flex;
+column-gap: 1rem;
+position: absolute;
+bottom: 1.25rem;
+left: 50%;
+transform: translateX(-50%);
+z-index: 1;
+
+}
+
+.slider-nav a {
+width:1.5rem;
+height: 1.5rem;
+padding: 10px;
+margin-inline-start: 50px;
+border-radius: 50%;
+box-shadow: rgb(33, 131, 123) 0px 0px 7px 6px;
+background-color: rgb(253, 255, 232);
+opacity:0.75rem;
+transition:  opacity  ease 0.1s; 
+
+}
