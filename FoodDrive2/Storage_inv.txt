@@ -1,0 +1,31 @@
+Frozen Ham,0,50
+Frozen Turkey,0,50
+Canned Yams,0,5
+Canned Corn,0,5
+Canned Green Beans,0,5
+Canned Carrots,0,5
+Canned Peas,0,5
+Canned Fruit,0,5
+Canned Pumpkin,0,5
+Canned Milk,0,5
+Instant Mashed Potatoes,0,8
+Potatoes,0,5
+Sugar,0,15
+Flour,0,10
+Cranberry Sauce,0,5
+Pie Crust,0,8
+Pie Filling,0,5
+Stuffing Mix,0,10
+Gravy Mix,0,1
+Bread Mix,0,5
+Cookie Mix,0,5
+Cake Mix and Icing,0,5
+Cooking Oil,0,8
+Mac n Cheese,0,2
+Canned Meats,0,10
+Peanut Butter,0,8
+Boxed Meal Kits,0,5
+Canned Soup,0,5
+Quick Meals,0,1
+Cake,5,5
+Cake,5,6
