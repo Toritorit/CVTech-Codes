@@ -1,0 +1,82 @@
+#NaviBar {
+    border: black solid 1px;
+}
+
+#NaviBar2 {
+    margin: 0px;
+    padding: 20px;
+    list-style: none;
+    background-color: #7e1a1a;
+}
+
+.NaviBar3 {
+    display: inline;
+    padding: 20px;
+}
+
+.NaviBar3 a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: white;
+}
+
+
+
+
+
+#Mbanner {
+    background-image: url("zBoil.jpg");
+    height: 170px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Mbanner h1 {
+    color: white;
+    font-size: 45px;
+    text-shadow: 2px 2px 5px darkred;
+}
+
+
+
+
+
+#MItems {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
+}
+
+.itemcolumn {
+    width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    margin: 20px;
+    text-align: center;
+}
+
+.itemcolumn img {
+    width: 100%;
+    height: 220px;
+}
+
+.itemdesc {
+    padding: 15px;
+}
+
+.item-name {
+    font-weight: bold;
+}
+
+.price {
+    color: darkred;
+    margin-top: 5px;
+}
