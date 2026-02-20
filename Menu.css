@@ -29,20 +29,17 @@ a:visited {
 
 
 #Mbanner {
-    background-image: url("zBoil.jpg");
-    height: 170px;
+    background-image: url("Zchefds.png");
+    height: 200px;
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-position: 0px -580px;
 }
 
-#Mbanner h1 {
-    color: white;
-    font-size: 45px;
-    text-shadow: 2px 2px 5px darkred;
-}
+
 
 
 
@@ -58,14 +55,20 @@ a:visited {
 .itemcolumn {
     width: 300px;
     background-color: white;
-    border: 1px solid gray;
-    margin: 20px;
+    margin: 35px;
     text-align: center;
+    box-shadow: 1px 1px 9px #724e4e;
 }
 
 .itemcolumn img {
     width: 100%;
     height: 220px;
+    
+}
+
+.itemcolumn:hover  {
+    transform: scale(1.1);
+    opacity: 1;
 }
 
 .itemdesc {
@@ -79,4 +82,8 @@ a:visited {
 .price {
     color: darkred;
     margin-top: 5px;
+}
+
+body {
+    background-image:url('Woodbg.jpg')
 }
